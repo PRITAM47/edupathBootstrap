@@ -179,17 +179,18 @@ textarea {
 
 
    .right-section h2 {
-    font-size: 2em;
+    width: 100%;
+    font-size: 1.8em;
     /*font-weight: 600;*/
     margin-top: 1.2em;
-    margin-left: 1.8rem;
+    margin-left: 1.2rem;
     word-spacing: 0.2rem;
     
   }
 
   #right-head {
     font-size: 1.2em;
-    margin-left: 3.3em;
+    margin-left: 2.7em;
   }
 
 
