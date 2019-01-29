@@ -177,12 +177,21 @@ textarea {
     background-repeat: no-repeat;
   }
 
+
    .right-section h2 {
     font-size: 2em;
     /*font-weight: 600;*/
     margin-top: 1.2em;
-    margin-left: 3rem;
+    margin-left: 1.8rem;
+    word-spacing: 0.2rem;
+    
   }
+
+  #right-head {
+    font-size: 1.2em;
+    margin-left: 3.3em;
+  }
+
 
   .left-section{
     margin-left: 0;
@@ -191,7 +200,7 @@ textarea {
 
    .card img {
     width: 40%;
-    margin-left: 5.6em;
+    margin-left: 6.2em;
   }
 
   .footer-section {
